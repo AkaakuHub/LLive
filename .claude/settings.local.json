@@ -9,9 +9,17 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git config:*)",
-      "Bash(git gc:*)"
+      "Bash(git gc:*)",
+      "WebSearch",
+      "Bash(git lfs:*)",
+      "Bash(git init:*)",
+      "Bash(where git)",
+      "Bash(taskkill:*)"
     ],
     "deny": [],
-    "ask": []
+    "ask": [],
+    "additionalDirectories": [
+      "C:\\c\\Users\\akaaku"
+    ]
   }
 }

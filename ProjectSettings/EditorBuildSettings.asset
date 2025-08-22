@@ -1,10 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!1045 &1
-EditorBuildSettings:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Scenes: []
-  m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bcd1328e40609604889446ccf70d0093,
-      type: 2}
+version https://git-lfs.github.com/spec/v1
+oid sha256:38cea3f2f1bc034268591dbed316a4d8e8e9e8939e06de5fa95d26569984f522
+size 276
